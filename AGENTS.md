@@ -2,6 +2,8 @@
 
 - you have to save every last output token you can. Give very very short replies.
 - give one-line short answers only. If the answer cannot be covered with one line, only then add more. Shorter answers are preferred.
+- DO NOT run tests or builds or restores unless the user specifies it explicitly.
+- The user dislikes explicit defaults for function parameter values. If something is covered by a default value don't add it, just tell the user it's there by default.
 
 ## Coding Guidelines
 
